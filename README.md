@@ -1,4 +1,7 @@
 # magento-paypal-plus-extension
+[![Total Downloads](https://poser.pugx.org/kgoedecke/magento-paypal-plus-extension/d/total.svg)](https://packagist.org/packages/kgoedecke/magento-paypal-plus-extension)
+[![MIT License](https://poser.pugx.org/kgoedecke/magento-paypal-plus-extension/license.svg)](https://packagist.org/packages/kgoedecke/magento-paypal-plus-extension)
+
 PayPal Plus Extension for Magento 1.x - Provided by i-ways.net
 
 # Requirements
@@ -19,6 +22,21 @@ PayPal Plus Extension for Magento 1.x - Provided by i-ways.net
 See: https://support.i-ways.net/hc/de/articles/115003454249-Voraussetzungen-PayPal-PLUS-Modul-M1
 
 # Installation
+
+### Composer Installation (recommended)
+
+```
+composer require https://github.com/kgoedecke/magento-paypal-plus-extension
+```
+
+### modman Installation
+
+```
+modman clone https://github.com/kgoedecke/magento-paypal-plus-extension
+```
+
+### Magento Connect Manager Installation
+
 1. Clone repository
 
 2. Pack the files into a tar: ```tar -cvzf magento-paypal-plus-extension.tgz app package.xml skin lib```
