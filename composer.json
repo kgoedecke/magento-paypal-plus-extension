@@ -1,0 +1,19 @@
+{
+  "name": "kgoedecke/magento-paypal-plus-extension",
+  "description": "iWays PayPal Plus Extension for Magento 1.X",
+  "type": "magento-module",
+  "license": "OSL-3.0",
+  "keywords": [
+    "Magento", "PayPal", "Magento1", "PayPalPlus"
+  ],
+  "authors": [
+    {
+      "name": "i-ways sales solutions GmbH",
+      "email": "kontakt@i-ways.net"
+    },
+    {
+      "name": "Kevin Goedecke",
+      "email": "kevin.goedecke@gmail.com"
+    }
+  ]
+}
